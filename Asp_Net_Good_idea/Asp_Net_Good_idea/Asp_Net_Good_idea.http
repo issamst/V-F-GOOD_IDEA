@@ -1,0 +1,6 @@
+@Asp_Net_Good_idea_HostAddress = http://localhost:5156
+
+GET {{Asp_Net_Good_idea_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
